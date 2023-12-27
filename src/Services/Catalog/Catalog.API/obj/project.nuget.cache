@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "faTKehYBSKAjYCzZyvLLl9JQ/8yfWCgo8WjqUYXidGVwklyot5qi7ci4voLmaw2g9CYLwLpIYojSzJELqamaeA==",
+  "dgSpecHash": "fWUSjOiCjfsyA5BqcC/FJO1TuYJHy1Ime4VnIj3vNNvhOyonFNLh6AI1aLl+vVIyNvNJCv+75qsi+VhaMLGorw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
+  "projectFilePath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Natalia\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Natalia\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -32,3 +32,16 @@ C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\obj\Debug\n
 C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\obj\Debug\net8.0\Catalog.API.pdb
 C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\obj\Debug\net8.0\ref\Catalog.API.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\Snappier.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Natalia\shop-microservices\src\services\catalog\catalog.api\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

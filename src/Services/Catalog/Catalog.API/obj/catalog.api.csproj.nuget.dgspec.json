@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj": {}
+    "c:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj": {
+    "c:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
+        "projectUniqueName": "c:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
         "projectName": "catalog.api",
-        "projectPath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
+        "projectPath": "c:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
         "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\obj\\",
+        "outputPath": "c:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Natalia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

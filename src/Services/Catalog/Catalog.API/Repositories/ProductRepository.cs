@@ -34,8 +34,12 @@ public class ProductRepository : IProductRepository
 
     public async Task<IEnumerable<Product>> GetProductByCategory(string categoryName)
     {
-        FilterDefinition<Product> filter = Builders<Product>.Filter.ElemMatch(p => p.Category, categoryName);
-        return await _context.Products.Find(filter).ToListAsync();
+        FilterDefinition<Product> filter = Builders<Product>.Filter.Eq(p => p.Category, categoryName);
+
+        return await _context
+                        .Products
+                        .Find(filter)
+                        .ToListAsync();
     }
 
     public async Task<IEnumerable<Product>> GetProductByName(string name)

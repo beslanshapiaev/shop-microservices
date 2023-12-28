@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fWUSjOiCjfsyA5BqcC/FJO1TuYJHy1Ime4VnIj3vNNvhOyonFNLh6AI1aLl+vVIyNvNJCv+75qsi+VhaMLGorw==",
+  "dgSpecHash": "EuUe0cq1E+fW5zrA/V2Sc9LgsVyEipIAPoH1Udh191N6r9A+hAxgsypj33fpImOVTdMGisYjQih8LITBo7bx0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Natalia\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
     "C:\\Users\\Natalia\\.nuget\\packages\\mongodb.driver\\2.23.1\\mongodb.driver.2.23.1.nupkg.sha512",

@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{BC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "catalog", "catalog", "{5DB6AF72-A7C1-49A5-85EE-B512812A45DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "catalog.api", "services\catalog\catalog.api\catalog.api.csproj", "{6F5FE4DE-5135-4D1F-AC74-F562B30EB379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "catalog.api", "services\catalog\catalog.api\catalog.api.csproj", "{6F5FE4DE-5135-4D1F-AC74-F562B30EB379}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3B49B22D-B309-4843-BA26-335D12590027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,9 +33,27 @@ Global
 		{6F5FE4DE-5135-4D1F-AC74-F562B30EB379}.Release|x64.Build.0 = Release|Any CPU
 		{6F5FE4DE-5135-4D1F-AC74-F562B30EB379}.Release|x86.ActiveCfg = Release|Any CPU
 		{6F5FE4DE-5135-4D1F-AC74-F562B30EB379}.Release|x86.Build.0 = Release|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Release|x64.Build.0 = Release|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B49B22D-B309-4843-BA26-335D12590027}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5DB6AF72-A7C1-49A5-85EE-B512812A45DB} = {BC127A9B-C045-4712-AA17-D484FE513E79}
 		{6F5FE4DE-5135-4D1F-AC74-F562B30EB379} = {5DB6AF72-A7C1-49A5-85EE-B512812A45DB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DCE8DD-A827-4453-A3A3-46C191F70E67}
 	EndGlobalSection
 EndGlobal

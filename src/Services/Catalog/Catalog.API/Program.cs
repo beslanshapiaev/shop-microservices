@@ -21,6 +21,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.MapControllers();
+app.UseRouting();
+app.UseAuthorization();
 //app.UseHttpsRedirection();
 
 // var summaries = new[]

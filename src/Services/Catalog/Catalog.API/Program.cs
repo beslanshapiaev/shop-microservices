@@ -1,5 +1,5 @@
 
-using catalog.api.Repositories;
+using Catalog.API.Repositories;
 using Catalog.API.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,11 +15,11 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 app.MapControllers();
 app.UseRouting();
 app.UseAuthorization();

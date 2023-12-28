@@ -1,7 +1,7 @@
 ﻿using Catalog.API.Entities;
 using MongoDB.Driver;
 
-namespace catalog.api.Data;
+namespace Catalog.API.Data;
 
 public class CatalogContextSeed
 {

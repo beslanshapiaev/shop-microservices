@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "i4u6wZO9Q3+qu6rt1OlIRejZivA1+L121OnvXHHCTr0=",
-  "Source": "catalog.api",
-  "BasePath": "_content/catalog.api",
+  "Hash": "dsw+z5JRLfbvfnm4YN5rLHYjFUjigEjIU18xRsIfEX0=",
+  "Source": "Catalog.API",
+  "BasePath": "_content/Catalog.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

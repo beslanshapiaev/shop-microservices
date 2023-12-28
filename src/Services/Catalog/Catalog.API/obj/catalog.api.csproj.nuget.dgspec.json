@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj": {}
+    "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj": {
+    "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
-        "projectName": "catalog.api",
-        "projectPath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj",
+        "projectUniqueName": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\Catalog.API.csproj",
+        "projectName": "Catalog.API",
+        "projectPath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Natalia\\shop-microservices\\src\\services\\catalog\\catalog.api\\obj\\",
         "projectStyle": "PackageReference",

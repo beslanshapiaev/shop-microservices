@@ -12,12 +12,12 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("30d6c8fb-afae-436e-afc5-d5eb3db993a5")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("catalog.api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Catalog.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("catalog.api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("catalog.api")]
+[assembly: System.Reflection.AssemblyProductAttribute("Catalog.API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Catalog.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

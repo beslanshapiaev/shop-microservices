@@ -1,8 +1,11 @@
 using Discount.Grpc.Extensions;
 using Discount.Grpc.Mapper;
 using Discount.Grpc.Repositories;
+using Microsoft.AspNetCore.SignalR;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
 
 // Add services to the container.
 
@@ -14,7 +17,7 @@ var app = builder.Build();
 
 
 // Configure the HTTP request pipeline.
-//app.Services.MigrateDatabase<Program>(0);
+app.Services.MigrateDatabase<Program>(0);
 app.MapGrpcService<DiscountService>();
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 

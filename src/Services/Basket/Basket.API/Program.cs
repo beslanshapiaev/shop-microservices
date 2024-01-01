@@ -17,7 +17,10 @@ builder.Services.AddStackExchangeRedisCache(options =>
     options.Configuration = builder.Configuration.GetValue<string>("CacheSettings:ConnectionString");
 });
 builder.Services.AddScoped<IBasketRepository, BasketRepository>();
-builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(o => o.Address = new(builder.Configuration["GrpcSettings:DiscountUrl"]));
+builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(o =>
+{
+    o.Address = new(builder.Configuration["GrpcSettings:DiscountUrl"]);
+});
 builder.Services.AddScoped<DiscountGrpcService>();
 
 
@@ -35,4 +38,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
- 
